@@ -1,6 +1,6 @@
 <h1>Colorman</h1>
 <p>Colorman is a powerful Python module that allows you to set console colors in your Python applications. With this module, you can add color and style to the text displayed on the terminal/command prompt.</p>
-<2>Installation</h2>
+<h2>Installation</h2>
 <p>To install Colorman, you can use pip:</p>
 <pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang"></span></div><code class="hljs code-block-body ">pip <span class="hljs-keyword">install</span> colorman
 </code></pre>
