@@ -59,3 +59,5 @@
 <p>For more information on how to use these functions, please refer to the documentation on Hamidreza Ahmadi's GitHub page.</p>
 <h2>Conclusion</h2>
 <p>With Colorman, you can easily add color and style to the text displayed on the terminal/command prompt in your Python applications. This module is easy to use and highly customizable, making it a great choice for developers who want to create eye-catching console interfaces.</p>
+
+قاعدتا وقتی دنبال همچین چیزی میاین قبلا colorama رو سر زدین بهش ، خب colorama بلد نیست رنگ های rgb بده ولی این میتونه همچین کاری کنه ! همین ! یا یسری تنظیمات دیگه که خب تو بالا نوشتمشون چطوری باید باهاشون کار کنین
