@@ -8,10 +8,10 @@ setup(
     description='A powerful python module to set console color',
     py_modules=['colorman'],
     author='Hamidreza Ahmadi',
-    author_email='hmddrz@outlook.com',
+    author_email='rhmidz@hotmail.com',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/hmddrz/colorman',
+    url='https://github.com/hotmail/colorman',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
