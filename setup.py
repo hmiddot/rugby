@@ -3,15 +3,15 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='Colorman',
-    version='0.1.4',
+    name='Colorad',
+    version='0.1.0',
     description='A powerful python module to set console color',
-    py_modules=['colorman'],
+    py_modules=['colorad'],
     author='Hamidreza Ahmadi',
     author_email='rhmidz@hotmail.com',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/hotmail/colorman',
+    url='https://github.com/rhmidz/colorad',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
