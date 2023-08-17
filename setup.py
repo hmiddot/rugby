@@ -3,15 +3,15 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='Colorad',
+    name='Ragbee',
     version='0.1.0',
     description='A powerful python module to set console color',
-    py_modules=['colorad'],
+    py_modules=['ragbee'],
     author='Hamidreza Ahmadi',
-    author_email='rhmidz@hotmail.com',
+    author_email='hmiddot@duck.com',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/rhmidz/colorad',
+    url='https://github.com/hmiddot/ragbee',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
