@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='Ragbee',
+    name='Rugby',
     version='0.1.0',
     description='A powerful python module to set console color',
     py_modules=['ragbee'],
