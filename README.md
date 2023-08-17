@@ -1,17 +1,17 @@
-<h1>Colorad</h1>
-<p>Colorad is a powerful Python module that allows you to set console colors in your Python applications. With this module, you can add color and style to the text displayed on the terminal/command prompt.</p>
+<h1>Rugby</h1>
+<p>Rugby is a powerful Python module that allows you to set console colors in your Python applications. With this module, you can add color and style to the text displayed on the terminal/command prompt.</p>
 <h2>Installation</h2>
-<p>To install Colorad, you can use pip:</p>
-<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang"></span></div><code class="hljs code-block-body ">pip <span class="hljs-keyword">install</span> colorad
+<p>To install Rugby, you can use pip:</p>
+<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang"></span></div><code class="hljs code-block-body ">pip <span class="hljs-keyword">install</span> rugby
 </code></pre>
 <h2>Usage</h2>
-<p>To use Colorad, you can import the module and use its functions as shown in the following example:</p>
-<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang"></span></div><code class="hljs code-block-body "><span class="hljs-keyword">import</span> colorad
-<span class="hljs-built_in">print</span>(colorad.colorize(<span class="hljs-number">255</span>, [<span class="hljs-number">100</span>],<span class="hljs-number">1</span>) + <span class="hljs-string">"hi"</span>)
+<p>To use Rugby, you can import the module and use its functions as shown in the following example:</p>
+<pre class="code-block-wrapper"><div class="code-block-header"><span class="code-block-header__lang"></span></div><code class="hljs code-block-body "><span class="hljs-keyword">import</span> rugby
+<span class="hljs-built_in">print</span>(rugby.colorize(<span class="hljs-number">255</span>, [<span class="hljs-number">100</span>],<span class="hljs-number">1</span>) + <span class="hljs-string">"hi"</span>)
 </code></pre>
 <p>In this example, the <code>colorize()</code> function is used to print "hi" in a specific color with a weight of 1. The <code>fgcolor()</code> and <code>bgcolor()</code> functions can also be used to set the foreground and background colors separately, and the <code>uncolor()</code> function can be used to reset the console color to its default setting.</p>
 <h2>Functions</h2>
-<p>The following functions are available in the Colorad module:</p>
+<p>The following functions are available in the Rugby module:</p>
 <ul>
 <li><code>colorize(fgcolor, bgcolor, weight=0)</code>: Returns the color code for a specific combination of foreground and background colors with a specified weight.</li>
 <li><code>fgcolor(fgcolor)</code>: Returns the color code for a specific foreground color.</li>
@@ -58,6 +58,6 @@
 </ul>
 <p>For more information on how to use these functions, please refer to the documentation on Hamidreza Ahmadi's GitHub page.</p>
 <h2>Conclusion</h2>
-<p>With Colorad, you can easily add color and style to the text displayed on the terminal/command prompt in your Python applications. This module is easy to use and highly customizable, making it a great choice for developers who want to create eye-catching console interfaces.</p>
+<p>With Rugby, you can easily add color and style to the text displayed on the terminal/command prompt in your Python applications. This module is easy to use and highly customizable, making it a great choice for developers who want to create eye-catching console interfaces.</p>
 
 قاعدتا وقتی دنبال همچین چیزی میاین قبلا colorama رو سر زدین بهش ، خب colorama بلد نیست رنگ های rgb بده ولی این میتونه همچین کاری کنه ! همین ! یا یسری تنظیمات دیگه که خب تو بالا نوشتمشون چطوری باید باهاشون کار کنین
